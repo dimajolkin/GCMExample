@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "343277652602",
+    "project_id": "examplemoydom"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343277652602:android:b867379339028108",
+        "android_client_info": {
+          "package_name": "com.example.dimaj.gsmexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs-SKArw2arZCbLA8x6F_FpYPHBAbIGxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

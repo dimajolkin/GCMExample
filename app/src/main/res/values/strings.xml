@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GSMExample</string>
+    <!--<string name="gcm_defaultSenderId">343277652602</string>-->
+</resources>
